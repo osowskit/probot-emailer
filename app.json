@@ -1,7 +1,7 @@
 {
   "name": "Probot Messenger",
   "description": "A Probot app that delivers messages from events across various services (email, IRC, XMPP, etc.)",
-  "repository": "https://github.com/gjtorikian/probot-messenger",
+  "repository": "https://github.com/osowskit/probot-emailer",
   "keywords": [
     "github",
     "probot",
@@ -12,7 +12,7 @@
   "addons": [
     {
       "plan": "sendgrid:starter",
-      "as": "SendGrid"
+      "as": "SENDGRID"
     }
   ],
   "env": {

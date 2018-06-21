@@ -1,4 +1,4 @@
-# probot-messenger
+# probot-emailer
 
 [![](https://api.travis-ci.org/gjtorikian/probot-messenger.svg?branch=master)](https://travis-ci.org/gjtorikian/probot-messenger/)
 

@@ -12,7 +12,7 @@
   "addons": [
     {
       "plan": "sendgrid:starter",
-      "as": "SendGrid"
+      "as": "SENDGRID"
     }
   ],
   "env": {

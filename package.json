@@ -32,5 +32,8 @@
     "env": [
       "jest"
     ]
+  }, 
+  "renovate": {
+    "renovateFork": true
   }
 }
